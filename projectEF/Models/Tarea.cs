@@ -3,22 +3,21 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace projectEF.Models;
 
-[Table("Task")]
+// [Table("Task")]
 public class Tarea
 {
-    [Key]
+    // [Key]
     public Guid TareaId { get; set; }
-    [ForeignKey("CategoriaId")]
+    // [ForeignKey("CategoriaId")]
     public Guid CategoriaId { get; set; }
-    [Required]
-    [MaxLength(200)]
+    // [Required]
+    // [MaxLength(200)]
     public string Titulo { get; set; }
-    public string Descripcion { get; set; }
-    public int MyProperty { get; set; }
+    public string Descripcion { get; set; }    
     public Prioridad PrioridadTarea { get; set; }
     public DateTime FechaCreacion { get; set; }
     public virtual Categoria Categoria { get; set; }
-    [NotMapped]
+    // [NotMapped]
     public string Resumen { get; set; }
 }
 

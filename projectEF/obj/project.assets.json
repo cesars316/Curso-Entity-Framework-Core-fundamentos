@@ -1800,11 +1800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Platzi\\projectEF\\projectEF.csproj",
+      "projectUniqueName": "C:\\Platzi\\Curso-Entity-Framework-Core-fundamentos\\projectEF\\projectEF.csproj",
       "projectName": "projectEF",
-      "projectPath": "C:\\Platzi\\projectEF\\projectEF.csproj",
+      "projectPath": "C:\\Platzi\\Curso-Entity-Framework-Core-fundamentos\\projectEF\\projectEF.csproj",
       "packagesPath": "C:\\Users\\csilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Platzi\\projectEF\\obj\\",
+      "outputPath": "C:\\Platzi\\Curso-Entity-Framework-Core-fundamentos\\projectEF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

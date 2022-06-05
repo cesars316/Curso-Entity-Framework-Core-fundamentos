@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYDYAXPoBcRINyXym5jIjbxkpo+Lb6KLjXAWS7C0WODoa7oS+xRTVjQw2ybCU8Gv934w3nA6Gjv6M9wfy6B7Jw==",
+  "dgSpecHash": "NsgSZBQG9tkfV8pSwpo2JYHZ8aVcxiCl5ew5F8nn/YkvftF0Y2xPnIycFuukVF46N8dnElbpR6BJllXZC1ji2A==",
   "success": true,
-  "projectFilePath": "C:\\Platzi\\projectEF\\projectEF.csproj",
+  "projectFilePath": "C:\\Platzi\\Curso-Entity-Framework-Core-fundamentos\\projectEF\\projectEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\csilva\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\csilva\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
