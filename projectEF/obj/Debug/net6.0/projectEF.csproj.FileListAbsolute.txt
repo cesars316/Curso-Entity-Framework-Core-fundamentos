@@ -108,3 +108,5 @@ C:\Platzi\Curso-Entity-Framework-Core-fundamentos\projectEF\obj\Debug\net6.0\ref
 C:\Platzi\Curso-Entity-Framework-Core-fundamentos\projectEF\obj\Debug\net6.0\projectEF.pdb
 C:\Platzi\Curso-Entity-Framework-Core-fundamentos\projectEF\obj\Debug\net6.0\projectEF.genruntimeconfig.cache
 C:\Platzi\Curso-Entity-Framework-Core-fundamentos\projectEF\obj\Debug\net6.0\ref\projectEF.dll
+C:\Platzi\Curso-Entity-Framework-Core-fundamentos\projectEF\bin\Debug\net6.0\Humanizer.dll
+C:\Platzi\Curso-Entity-Framework-Core-fundamentos\projectEF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
